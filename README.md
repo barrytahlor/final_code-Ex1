@@ -37,3 +37,13 @@ ensure that it restarts automatically at boot:
 
 start the Mongo daemon:# learn-fullstack-javascript
 Learning Fullstack JavaScript Development: MongoDB, Node.js, React.js
+
+run app
+1) cmd
+2) cd C:\Users\NodeJS\Documents\Projects\Exercise\Final_Code
+3) npm run dev
+
+4) cmd
+5) cd C:\Users\NodeJS\Documents\Projects\Exercise\Final_Code
+6) npm start
+
